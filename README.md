@@ -66,6 +66,8 @@ The analysis is built upon a relational dataset from Adventure Works, which incl
 This project provides a comprehensive dashboard for analyzing road accident data. The objective is to identify patterns and contributing factors in accidents to inform safety initiatives. The dashboard breaks down casualties by severity, vehicle type, road conditions, and time.
 
 ## 💾 Dataset
+Note: The dataset is provided within a .zip archive. You must unzip the file first to access the Road accident data.zip before running the project scripts.
+
 The analysis is based on a road accident dataset. While the specific tables are not listed, the data contains key attributes such as:
 
  * Casualty Severity: (Fatal, Serious, Slight)
